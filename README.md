@@ -47,7 +47,7 @@ A dual-mode iOS app (**Puppy Mode & Social Mode**) focused on responsible dog so
 
 ---
 
-### [🌿 SoWell — Mood Tracker iOS App](https://github.com/MpmookR/SoWell)
+### [🌿 SoWell: Mood Tracker iOS App](https://github.com/MpmookR/SoWell)
 HealthKit-integrated mood and wellbeing tracker with diary entries, calendar view, and weekly summaries.
 
 **Built with**
@@ -58,7 +58,7 @@ HealthKit-integrated mood and wellbeing tracker with diary entries, calendar vie
   
 ---
 
-### [🎨 MoodBoard — iOS Widget App (Freelance UX Designer)](https://mpmookr.wixsite.com/mysite)
+### [🎨 MoodBoard: iOS Widget App (Freelance UX Designer)](https://mpmookr.wixsite.com/mysite)
 Led UX improvements for onboarding + photo editing workflows for an iOS widget app.
 
 **Highlights**
@@ -76,7 +76,6 @@ Led UX improvements for onboarding + photo editing workflows for an iOS widget a
 ---
 
 ## 📫 Contact
-
 - Email: mpmookr@gmail.com
 - GitHub: https://github.com/MpmookR
 - Portfolio: https://mpmookr.wixsite.com/mysite
