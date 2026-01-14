@@ -1,6 +1,7 @@
 # 👋 Hi, I’m Mook (Puangpaka Rattana)
 
-I'm an **iOS Engineer based in London 🇬🇧**, focused on building scalable iOS apps with **Swift/SwiftUI**, **MVVM**, and **Clean Architecture**.
+I'm an **iOS Engineer based in London 🇬🇧**,
+Focused on building scalable iOS apps with **Swift/SwiftUI**, **MVVM**, and **Clean Architecture**.
 
 - Integrated features with **REST APIs** and cloud services like **Firebase**
 - Used **async/await**, **Combine**, and structured state management for reliability and performance
@@ -9,23 +10,24 @@ I'm an **iOS Engineer based in London 🇬🇧**, focused on building scalable i
 
 ## 🧰 Main Tech Stack
 
-### iOS / Mobile
-[![Swift](https://img.shields.io/badge/Swift-000000?style=for-the-badge&logo=swift)](https://developer.apple.com/swift/)
-[![SwiftUI](https://img.shields.io/badge/SwiftUI-000000?style=for-the-badge&logo=swift)](https://developer.apple.com/xcode/swiftui/)
-[![Combine](https://img.shields.io/badge/Combine-000000?style=for-the-badge&logo=apple)](https://developer.apple.com/documentation/combine)
-[![Xcode](https://img.shields.io/badge/Xcode-000000?style=for-the-badge&logo=xcode)](https://developer.apple.com/xcode/)
-[![HealthKit](https://img.shields.io/badge/HealthKit-000000?style=for-the-badge&logo=apple)](https://developer.apple.com/health-fitness/)
+**iOS / Mobile**
+- Swift, SwiftUI, Combine, async/await
+- UIKit (fundamentals), MapKit, Core Location, HealthKit
+- XCTest (unit/UI testing)
 
-### Backend / Cloud
-[![Firebase](https://img.shields.io/badge/Firebase-000000?style=for-the-badge&logo=firebase)](https://firebase.google.com/)
-[![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js)](https://nodejs.org/)
-[![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript)](https://www.typescriptlang.org/)
+**Architecture**
+- MVVM, Clean Architecture
+- Modular structure, state management
 
-### Workflow / Tools
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github)](https://github.com/)
-[![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-000000?style=for-the-badge&logo=githubactions)](https://github.com/features/actions)
-[![Figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma)](https://www.figma.com/)
+**Backend / Cloud**
+- Firebase Auth, Firestore, Storage, FCM
+- Cloud Functions (TypeScript)
+- REST APIs
 
+**Workflow / Tools**
+- Xcode, Git, GitHub, GitHub Actions
+- Postman, Figma
+  
 ---
 
 ## 🚀 Featured Projects
