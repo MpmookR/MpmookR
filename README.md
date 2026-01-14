@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Mook (Puangpaka Rattana)
 
-I'm an **iOS Engineer based in London 🇬🇧**,
+I'm an **iOS Engineer based in London 🇬🇧**
 Focused on building scalable iOS apps with **Swift/SwiftUI**, **MVVM**, and **Clean Architecture**.
 
 - Integrated features with **REST APIs** and cloud services like **Firebase**
