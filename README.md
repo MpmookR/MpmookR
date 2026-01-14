@@ -1,10 +1,11 @@
 # 👋 Hi, I’m Mook (Puangpaka Rattana)
 
-I'm an **iOS Engineer based in London 🇬🇧** focused on building scalable and maintainable iOS apps using **Swift/SwiftUI** and modern architecture patterns such as **MVVM** and **Clean Architecture**.  
-I’ve delivered features integrated with **REST APIs** and cloud services like **Firebase**, using **async/await**, **Combine**, and structured state management to support real-world performance and reliability.  
-With a background in **UX**, I bridge product thinking and engineering to ship clean, user-centred features — and I also have familiarity with **UIKit fundamentals** and enjoy working across modern and evolving iOS codebases.
+I'm an **iOS Engineer based in London 🇬🇧**, focused on building scalable iOS apps with **Swift/SwiftUI**, **MVVM**, and **Clean Architecture**.
 
----
+- Integrated features with **REST APIs** and cloud services like **Firebase**
+- Used **async/await**, **Combine**, and structured state management for reliability and performance
+- Bridged **UX + Engineering** to deliver clean, user-centred experiences
+- Familiar with **UIKit fundamentals** and comfortable learning within modern and evolving codebases
 
 ## 🧰 Main Tech Stack
 
@@ -31,15 +32,16 @@ With a background in **UX**, I bridge product thinking and engineering to ship c
 
 ### [🐶 SoPup: Dog Socialisation iOS App (MSc Final Project)](https://github.com/MpmookR/So_Pup)
 A dual-mode iOS app (**Puppy Mode & Social Mode**) focused on responsible dog socialisation.  
-Built with **SwiftUI (MVVM)** + **Firebase** + **Cloud Functions (TypeScript)**.
 
-**Highlights**
-- Matchmaking and profile discovery
-- Real-time chat
-- Meet-up request flow + review system
-- Push notifications (FCM)
-- Optimised Firestore queries for real-time performance
-- Delivered multiple TestFlight builds and iterated using tester feedback
+**Built with**
+- Swift, SwiftUI — **MVVM / Clean Architecture**
+- Firebase — Auth (Apple/Google/Email), Firestore, Storage, FCM
+- Cloud Functions (TypeScript)
+- REST APIs + async/await, Combine
+- MapKit + Core Location (distance-based discovery)
+- Push Notifications (APNs + FCM)
+
+**⚙ [TestFlight](https://testflight.apple.com/join/duM8Wv9Q)**
 
 ---
 
@@ -51,9 +53,7 @@ HealthKit-integrated mood and wellbeing tracker with diary entries, calendar vie
 - SwiftData local persistence
 - Firebase Auth + Firestore (secure user data handling)
 - HealthKit integration
-
-➡️ Repo: https://github.com/MpmookR
-
+  
 ---
 
 ### [🎨 MoodBoard — iOS Widget App (Freelance UX Designer)](https://mpmookr.wixsite.com/mysite)
@@ -62,7 +62,7 @@ Led UX improvements for onboarding + photo editing workflows for an iOS widget a
 **Highlights**
 - Converted **28 survey responses** into targeted UX improvements
 - Redesigned editing UI into a grouped tap-based panel to reduce cognitive load
-- Collaborated with iOS developer to deliver Figma → production handoff aligned with iOS standards
+- Collaborated with iOS developer to deliver Figma -> production handoff aligned with iOS standards
 
 ---
 
@@ -73,16 +73,9 @@ Led UX improvements for onboarding + photo editing workflows for an iOS widget a
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MpmookR&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MpmookR&layout=compact&theme=tokyonight)
-
----
-
 ## 📫 Contact
 
-- Email: **mpmookr@gmail.com**
-- GitHub: **https://github.com/MpmookR**
-- Portfolio: **https://mpmookr.wixsite.com/mysite**
+- Email: mpmookr@gmail.com
+- GitHub: https://github.com/MpmookR
+- Portfolio: https://mpmookr.wixsite.com/mysite
 
