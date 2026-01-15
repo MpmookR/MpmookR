@@ -58,8 +58,8 @@ HealthKit-integrated mood and wellbeing tracker with diary entries, calendar vie
   
 ---
 
-### [🎨 MoodBoard: iOS Widget App (Freelance UX Designer)](https://mpmookr.wixsite.com/mysite)
-Led UX improvements for onboarding + photo editing workflows for an iOS widget app.
+### [🎨 MoodBoard: iOS Widget App (Freelance UX Designer)](https://mpmookr.wixsite.com/mysite/moodboard)
+Led UX improvements for onboarding & photo editing workflows for an iOS widget app.
 
 **Highlights**
 - Converted **28 survey responses** into targeted UX improvements
@@ -77,6 +77,6 @@ Led UX improvements for onboarding + photo editing workflows for an iOS widget a
 
 ## 📫 Contact
 - Email: mpmookr@gmail.com
-- GitHub: https://github.com/MpmookR
-- Portfolio: https://mpmookr.wixsite.com/mysite
+- LinkedIn: [Puangpaka (Mook) Rattana](https://www.linkedin.com/in/puangpaka-rattana-4608981b2/)
+- Portfolio: [mpmookr](https://mpmookr.wixsite.com/mysite)
 
