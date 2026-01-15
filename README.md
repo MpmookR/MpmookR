@@ -13,7 +13,6 @@ Focused on building scalable iOS apps with **Swift/SwiftUI**, **MVVM**, and **Cl
 **iOS / Mobile**
 - Swift, SwiftUI, Combine, async/await
 - UIKit (fundamentals), MapKit, Core Location, HealthKit
-- XCTest (unit/UI testing)
 
 **Architecture**
 - MVVM, Clean Architecture
@@ -25,7 +24,7 @@ Focused on building scalable iOS apps with **Swift/SwiftUI**, **MVVM**, and **Cl
 - REST APIs
 
 **Workflow / Tools**
-- Xcode, Git, GitHub, GitHub Actions
+- Xcode, VsCode, Git, GitHub
 - Postman, Figma
   
 ---
