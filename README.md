@@ -1,18 +1,24 @@
 # 👋 Hi, I’m Mook (Puangpaka Rattana)
 
-I'm an **iOS Engineer based in London 🇬🇧**
-Focused on building scalable iOS apps with **Swift/SwiftUI**, **MVVM**, and **Clean Architecture**.
+I’m an **iOS Engineer & Frontend Developer based in London 🇬🇧**  
 
-- Integrated features with **REST APIs** and cloud services like **Firebase**
-- Used **async/await**, **Combine**, and structured state management for reliability and performance
-- Bridged **UX + Engineering** to deliver clean, user-centred experiences
-- Familiar with **UIKit fundamentals** and comfortable learning within modern and evolving codebases
-
+- Built production iOS apps using **SwiftUI**, **MVVM**, and **Clean Architecture**
+- Developed frontend features with **TypeScript**, **React**, and modern JS tooling
+- Integrated apps with **REST APIs** and cloud services (Firebase)
+- Used **async/await**, **Combine**, and structured state management for reliability
+- Bridged **UX + Engineering** across mobile and web projects
+- Comfortable working across **SwiftUI, UIKit fundamentals**, and evolving frontend codebases
+  
 ## 🧰 Main Tech Stack
 
 **iOS / Mobile**
 - Swift, SwiftUI, Combine, async/await
 - UIKit (fundamentals), MapKit, Core Location, HealthKit
+
+**Frontend / Web**
+- TypeScript, JavaScript
+- React, SolidJS
+- HTML, CSS, modern frontend patterns
 
 **Architecture**
 - MVVM, Clean Architecture
