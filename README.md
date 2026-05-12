@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Mook (Puangpaka Rattana)
 
-I’m an **iOS Engineer & Frontend Developer based in London 🇬🇧**  
+I’m a **Frontend Developer based in London 🇬🇧**  
 
 - Built production iOS apps using **SwiftUI**, **MVVM**, and **Clean Architecture**
 - Developed frontend features with **TypeScript**, **React**, and modern JS tooling
