@@ -1,13 +1,11 @@
 # 👋 Hi, I’m Mook (Puangpaka Rattana)
 
-I’m a **Frontend Developer based in London 🇬🇧**  
+I'm a **Full-Stack / Frontend Developer based in London 🇬🇧**
 
-- Built production iOS apps using **SwiftUI**, **MVVM**, and **Clean Architecture**
-- Developed frontend features with **TypeScript**, **React**, and modern JS tooling
-- Integrated apps with **REST APIs** and cloud services (Firebase)
-- Used **async/await**, **Combine**, and structured state management for reliability
+- Build responsive, accessible web apps with **React**, **TypeScript**, and modern frontend tooling
+- Design and consume **REST APIs**, handling auth, state management, and data flows end-to-end
+- Also build production iOS apps using **SwiftUI**, **MVVM**, and **Clean Architecture**
 - Bridged **UX + Engineering** across mobile and web projects
-- Comfortable working across **SwiftUI, UIKit fundamentals**, and evolving frontend codebases
   
 ## 🧰 Main Tech Stack
 
@@ -17,17 +15,19 @@ I’m a **Frontend Developer based in London 🇬🇧**
 
 **Frontend / Web**
 - TypeScript, JavaScript
-- React, SolidJS
-- HTML, CSS, modern frontend patterns
-
-**Architecture**
-- MVVM, Clean Architecture
-- Modular structure, state management
+- React, Next.js (App Router), Redux, React Router, SolidJS
+- HTML, CSS, Tailwind CSS, responsive & accessible UI patterns
 
 **Backend / Cloud**
-- Firebase Auth, Firestore, Storage, FCM
-- Cloud Functions (TypeScript)
-- REST APIs
+- ASP.NET Core, Entity Framework Core, SQLite
+- Firebase — Auth, Firestore, Storage, FCM, Cloud Functions (TypeScript)
+- Sanity CMS, REST APIs, JWT authentication
+  
+**Architecture**
+- SOLID principles, MVVM, Clean Architecture
+- Component-based architecture (React, SwiftUI)
+- Rendering strategies — SPA (Vite/React) vs SSR/SSG (Next.js App Router)
+- Modular structure, state management
 
 **Workflow / Tools**
 - Xcode, VsCode, Git, GitHub
@@ -52,24 +52,28 @@ A dual-mode iOS app (**Puppy Mode & Social Mode**) focused on responsible dog so
 
 ---
 
-### [🌿 SoWell: Mood Tracker iOS App](https://github.com/MpmookR/SoWell)
-HealthKit-integrated mood and wellbeing tracker with diary entries, calendar view, and weekly summaries.
-
+### [🍸 Local Edition: Digital Bar Menu](https://github.com/MpmookR/localEdition)
+Bilingual (Thai/English) QR-code digital menu for a cocktail bar in Hatyai, Thailand — customers scan a code at their table to browse the menu on their phone.
+ 
 **Built with**
-- SwiftUI + MVVM
-- SwiftData local persistence
-- Firebase Auth + Firestore (secure user data handling)
-- HealthKit integration
-  
+- Next.js 16 (App Router), React 19, TypeScript
+- Tailwind CSS v4
+- Sanity CMS v5 — lets the bar owner edit menu items and prices without a redeploy
+**⚙ [Live site](https://local-edition-azure.vercel.app)**
+ 
 ---
 
-### [🎨 MoodBoard: iOS Widget App (Freelance UX Designer)](https://mooksportfolio.netlify.app/projects/moodboard)
-Led UX improvements for onboarding & photo editing workflows for an iOS widget app.
-
-**Highlights**
-- Converted **28 survey responses** into targeted UX improvements
-- Redesigned editing UI into a grouped tap-based panel to reduce cognitive load
-- Collaborated with iOS developer to deliver Figma -> production handoff aligned with iOS standards
+### [🍱 iShare: Recipe Sharing Web Platform](https://mooksportfolio.netlify.app/projects/ishare)
+MSc Solo Project | March – April 2025
+ 
+A responsive recipe-sharing platform, translating user requirements and interface concepts into reusable React components.
+ 
+**Built with**
+- React, TypeScript, Redux, React Router — single-page application
+- ASP.NET Core, Entity Framework Core, SQLite, JWT authentication
+- REST APIs supporting auth, recipe management, comments, likes, and saved recipes
+- Figma → production UI, accessible and mobile-friendly design
+**⚙ [GitHub](https://github.com/MpmookR/ishare)**
 
 ---
 
