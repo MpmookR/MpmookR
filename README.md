@@ -11,10 +11,12 @@ I'm a **Frontend-Focused Product Engineer and experienced Product Designer based
   
 ## 🧰 Tech Stack
  
-**Web** : TypeScript, React, Next.js (App Router), Redux, Tailwind CSS, accessible/responsive UI patterns
-**iOS** : Swift, SwiftUI, Combine, async/await, MapKit, Core Location, HealthKit
-**Backend / Cloud** : Firebase (Auth, Firestore, Storage, FCM, Cloud Functions), ASP.NET Core, REST APIs, JWT, Sanity CMS
-**Architecture** : SOLID, MVVM, Clean Architecture, component-based design, SPA vs SSR/SSG
+| | |
+|---|---|
+| **Web** | TypeScript, React, Next.js (App Router), Redux, Tailwind CSS |
+| **iOS** | Swift, SwiftUI, Combine, async/await, MapKit, Core Location, HealthKit |
+| **Backend / Cloud** | Firebase (Auth, Firestore, Storage, FCM, Cloud Functions), ASP.NET Core, REST APIs, JWT, Sanity CMS |
+| **Architecture** | SOLID, MVVM, Clean Architecture, component-based design, SPA vs SSR/SSG |
  
 ---
   
