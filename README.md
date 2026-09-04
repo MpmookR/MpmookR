@@ -1,44 +1,27 @@
 # 👋 Hi, I’m Mook (Puangpaka Rattana)
 
-I'm a **Full-Stack / Frontend Developer based in London 🇬🇧**
+I'm a **Frontend-Focused Product Engineer and experienced Product Designer based in London 🇬🇧**
 
+- Bridge **UX + Engineering** I design and build, end to end
 - Build responsive, accessible web apps with **React**, **TypeScript**, and modern frontend tooling
 - Design and consume **REST APIs**, handling auth, state management, and data flows end-to-end
 - Also build production iOS apps using **SwiftUI**, **MVVM**, and **Clean Architecture**
-- Bridged **UX + Engineering** across mobile and web projects
-  
-## 🧰 Main Tech Stack
 
-**iOS / Mobile**
-- Swift, SwiftUI, Combine, async/await
-- UIKit (fundamentals), MapKit, Core Location, HealthKit
-
-**Frontend / Web**
-- TypeScript, JavaScript
-- React, Next.js (App Router), Redux, React Router, SolidJS
-- HTML, CSS, Tailwind CSS, responsive & accessible UI patterns
-
-**Backend / Cloud**
-- ASP.NET Core, Entity Framework Core, SQLite
-- Firebase — Auth, Firestore, Storage, FCM, Cloud Functions (TypeScript)
-- Sanity CMS, REST APIs, JWT authentication
-  
-**Architecture**
-- SOLID principles, MVVM, Clean Architecture
-- Component-based architecture (React, SwiftUI)
-- Rendering strategies — SPA (Vite/React) vs SSR/SSG (Next.js App Router)
-- Modular structure, state management
-
-**Workflow / Tools**
-- Xcode, VsCode, Git, GitHub
-- Postman, Figma
-  
 ---
-
+  
+## 🧰 Tech Stack
+ 
+**Web** : TypeScript, React, Next.js (App Router), Redux, Tailwind CSS, accessible/responsive UI patterns
+**iOS** : Swift, SwiftUI, Combine, async/await, MapKit, Core Location, HealthKit
+**Backend / Cloud** : Firebase (Auth, Firestore, Storage, FCM, Cloud Functions), ASP.NET Core, REST APIs, JWT, Sanity CMS
+**Architecture** : SOLID, MVVM, Clean Architecture, component-based design, SPA vs SSR/SSG
+ 
+---
+  
 ## 🚀 Featured Projects
 
 ### [🐶 SoPup: Dog Socialisation iOS App (MSc Final Project)](https://github.com/MpmookR/So_Pup)
-A dual-mode iOS app (**Puppy Mode & Social Mode**) focused on responsible dog socialisation.  
+A dual-mode iOS app (**Puppy Mode & Social Mode**) that helps owners socialise their dogs safely, matching dogs by temperament and distance rather than leaving it to chance at the park
 
 **Built with**
 - Swift, SwiftUI — **MVVM / Clean Architecture**
@@ -53,12 +36,13 @@ A dual-mode iOS app (**Puppy Mode & Social Mode**) focused on responsible dog so
 ---
 
 ### [🍸 Local Edition: Digital Bar Menu](https://github.com/MpmookR/localEdition)
-Bilingual (Thai/English) QR-code digital menu for a cocktail bar in Hatyai, Thailand — customers scan a code at their table to browse the menu on their phone.
- 
+ Built for a real bar owner in Hatyai, Thailand: I interviewed the owner, scoped the product, and built a bilingual (Thai/English) QR-code menu she now edits herself, no redeploy needed. 
+
 **Built with**
 - Next.js 16 (App Router), React 19, TypeScript
 - Tailwind CSS v4
-- Sanity CMS v5 — lets the bar owner edit menu items and prices without a redeploy
+- Sanity CMS v5: owner-editable content, no developer in the loop
+  
 **⚙ [Live site](https://local-edition-azure.vercel.app)**
  
 ---
